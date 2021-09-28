@@ -1,0 +1,10 @@
+C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\bin\Debug\Partiu Portugal.exe.config
+C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\bin\Debug\Partiu Portugal.exe
+C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\bin\Debug\Partiu Portugal.pdb
+C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu Portugal.csproj.AssemblyReference.cache
+C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu_Portugal.PartiuPt.resources
+C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu_Portugal.Properties.Resources.resources
+C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu Portugal.csproj.GenerateResource.cache
+C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu Portugal.csproj.CoreCompileInputs.cache
+C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu Portugal.exe
+C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu Portugal.pdb
