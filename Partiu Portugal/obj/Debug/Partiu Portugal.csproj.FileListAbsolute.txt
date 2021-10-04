@@ -8,3 +8,13 @@ C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu P
 C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu Portugal.csproj.CoreCompileInputs.cache
 C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu Portugal.exe
 C:\Users\Sulemam\source\repos\Partiu Portugal\Partiu Portugal\obj\Debug\Partiu Portugal.pdb
+E:\GitHub\AppPartiuPortugal\Partiu Portugal\bin\Debug\Partiu Portugal.exe.config
+E:\GitHub\AppPartiuPortugal\Partiu Portugal\bin\Debug\Partiu Portugal.exe
+E:\GitHub\AppPartiuPortugal\Partiu Portugal\bin\Debug\Partiu Portugal.pdb
+E:\GitHub\AppPartiuPortugal\Partiu Portugal\obj\Debug\Partiu Portugal.csproj.AssemblyReference.cache
+E:\GitHub\AppPartiuPortugal\Partiu Portugal\obj\Debug\Partiu_Portugal.PartiuPt.resources
+E:\GitHub\AppPartiuPortugal\Partiu Portugal\obj\Debug\Partiu_Portugal.Properties.Resources.resources
+E:\GitHub\AppPartiuPortugal\Partiu Portugal\obj\Debug\Partiu Portugal.csproj.GenerateResource.cache
+E:\GitHub\AppPartiuPortugal\Partiu Portugal\obj\Debug\Partiu Portugal.csproj.CoreCompileInputs.cache
+E:\GitHub\AppPartiuPortugal\Partiu Portugal\obj\Debug\Partiu Portugal.exe
+E:\GitHub\AppPartiuPortugal\Partiu Portugal\obj\Debug\Partiu Portugal.pdb

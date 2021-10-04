@@ -57,7 +57,7 @@ namespace Partiu_Portugal
             // 
             // Verificar
             // 
-            this.Verificar.Location = new System.Drawing.Point(339, 446);
+            this.Verificar.Location = new System.Drawing.Point(380, 442);
             this.Verificar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Verificar.Name = "Verificar";
             this.Verificar.Size = new System.Drawing.Size(344, 40);
@@ -70,7 +70,7 @@ namespace Partiu_Portugal
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(335, 404);
+            this.label10.Location = new System.Drawing.Point(376, 400);
             this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(166, 19);
@@ -81,7 +81,7 @@ namespace Partiu_Portugal
             // 
             this.MOSTRAVALOR.AutoSize = true;
             this.MOSTRAVALOR.Font = new System.Drawing.Font("Calibri", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.MOSTRAVALOR.Location = new System.Drawing.Point(497, 359);
+            this.MOSTRAVALOR.Location = new System.Drawing.Point(538, 355);
             this.MOSTRAVALOR.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MOSTRAVALOR.Name = "MOSTRAVALOR";
             this.MOSTRAVALOR.Size = new System.Drawing.Size(20, 24);
@@ -92,7 +92,7 @@ namespace Partiu_Portugal
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(335, 360);
+            this.label8.Location = new System.Drawing.Point(376, 356);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(163, 19);
@@ -101,7 +101,7 @@ namespace Partiu_Portugal
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(640, 315);
+            this.textBox1.Location = new System.Drawing.Point(681, 311);
             this.textBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(43, 26);
@@ -112,7 +112,7 @@ namespace Partiu_Portugal
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(335, 319);
+            this.label6.Location = new System.Drawing.Point(376, 315);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(297, 19);
@@ -134,7 +134,7 @@ namespace Partiu_Portugal
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(29, 463);
+            this.label12.Location = new System.Drawing.Point(70, 459);
             this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(140, 19);
@@ -145,7 +145,7 @@ namespace Partiu_Portugal
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(29, 415);
+            this.label13.Location = new System.Drawing.Point(83, 411);
             this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(127, 19);
@@ -156,18 +156,18 @@ namespace Partiu_Portugal
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(29, 365);
+            this.label14.Location = new System.Drawing.Point(28, 365);
             this.label14.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(98, 19);
+            this.label14.Size = new System.Drawing.Size(182, 19);
             this.label14.TabIndex = 47;
-            this.label14.Text = "Passagens";
+            this.label14.Text = "Passagens ida/volta";
             // 
             // label15
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(29, 319);
+            this.label15.Location = new System.Drawing.Point(104, 319);
             this.label15.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(106, 19);
@@ -176,7 +176,7 @@ namespace Partiu_Portugal
             // 
             // CALCULAR
             // 
-            this.CALCULAR.Location = new System.Drawing.Point(552, 354);
+            this.CALCULAR.Location = new System.Drawing.Point(593, 350);
             this.CALCULAR.Name = "CALCULAR";
             this.CALCULAR.Size = new System.Drawing.Size(131, 30);
             this.CALCULAR.TabIndex = 58;
@@ -188,7 +188,7 @@ namespace Partiu_Portugal
             // 
             this.checkBox1.AutoSize = true;
             this.checkBox1.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox1.Location = new System.Drawing.Point(177, 319);
+            this.checkBox1.Location = new System.Drawing.Point(218, 315);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(69, 23);
             this.checkBox1.TabIndex = 59;
@@ -200,7 +200,7 @@ namespace Partiu_Portugal
             // 
             this.checkBox2.AutoSize = true;
             this.checkBox2.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox2.Location = new System.Drawing.Point(177, 365);
+            this.checkBox2.Location = new System.Drawing.Point(218, 361);
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(69, 23);
             this.checkBox2.TabIndex = 60;
@@ -212,7 +212,7 @@ namespace Partiu_Portugal
             // 
             this.checkBox3.AutoSize = true;
             this.checkBox3.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox3.Location = new System.Drawing.Point(177, 415);
+            this.checkBox3.Location = new System.Drawing.Point(218, 411);
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(69, 23);
             this.checkBox3.TabIndex = 61;
@@ -224,7 +224,7 @@ namespace Partiu_Portugal
             // 
             this.checkBox4.AutoSize = true;
             this.checkBox4.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox4.Location = new System.Drawing.Point(176, 463);
+            this.checkBox4.Location = new System.Drawing.Point(217, 459);
             this.checkBox4.Name = "checkBox4";
             this.checkBox4.Size = new System.Drawing.Size(69, 23);
             this.checkBox4.TabIndex = 62;
@@ -236,7 +236,7 @@ namespace Partiu_Portugal
             // 
             this.checkBox5.AutoSize = true;
             this.checkBox5.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox5.Location = new System.Drawing.Point(508, 400);
+            this.checkBox5.Location = new System.Drawing.Point(563, 396);
             this.checkBox5.Name = "checkBox5";
             this.checkBox5.Size = new System.Drawing.Size(69, 23);
             this.checkBox5.TabIndex = 63;
@@ -248,7 +248,7 @@ namespace Partiu_Portugal
             // 
             this.checkBox6.AutoSize = true;
             this.checkBox6.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox6.Location = new System.Drawing.Point(252, 319);
+            this.checkBox6.Location = new System.Drawing.Point(293, 315);
             this.checkBox6.Name = "checkBox6";
             this.checkBox6.Size = new System.Drawing.Size(68, 23);
             this.checkBox6.TabIndex = 67;
@@ -260,7 +260,7 @@ namespace Partiu_Portugal
             // 
             this.checkBox7.AutoSize = true;
             this.checkBox7.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox7.Location = new System.Drawing.Point(251, 365);
+            this.checkBox7.Location = new System.Drawing.Point(292, 361);
             this.checkBox7.Name = "checkBox7";
             this.checkBox7.Size = new System.Drawing.Size(68, 23);
             this.checkBox7.TabIndex = 66;
@@ -272,7 +272,7 @@ namespace Partiu_Portugal
             // 
             this.checkBox8.AutoSize = true;
             this.checkBox8.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox8.Location = new System.Drawing.Point(251, 415);
+            this.checkBox8.Location = new System.Drawing.Point(292, 411);
             this.checkBox8.Name = "checkBox8";
             this.checkBox8.Size = new System.Drawing.Size(68, 23);
             this.checkBox8.TabIndex = 65;
@@ -284,7 +284,7 @@ namespace Partiu_Portugal
             // 
             this.checkBox9.AutoSize = true;
             this.checkBox9.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox9.Location = new System.Drawing.Point(251, 463);
+            this.checkBox9.Location = new System.Drawing.Point(292, 459);
             this.checkBox9.Name = "checkBox9";
             this.checkBox9.Size = new System.Drawing.Size(68, 23);
             this.checkBox9.TabIndex = 64;
@@ -296,7 +296,7 @@ namespace Partiu_Portugal
             // 
             this.checkBox10.AutoSize = true;
             this.checkBox10.Font = new System.Drawing.Font("Broadway", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox10.Location = new System.Drawing.Point(583, 400);
+            this.checkBox10.Location = new System.Drawing.Point(656, 396);
             this.checkBox10.Name = "checkBox10";
             this.checkBox10.Size = new System.Drawing.Size(68, 23);
             this.checkBox10.TabIndex = 68;
@@ -308,7 +308,7 @@ namespace Partiu_Portugal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(727, 507);
+            this.ClientSize = new System.Drawing.Size(763, 507);
             this.Controls.Add(this.checkBox10);
             this.Controls.Add(this.checkBox6);
             this.Controls.Add(this.checkBox7);
