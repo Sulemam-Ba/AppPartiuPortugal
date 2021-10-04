@@ -17,12 +17,25 @@ Foi construída de forma simples, facilitando  a ultilização do usuário.
 recebendo os dados para serem processados.
 
 
-###  COSTRUÇÃO DO SCRIPT  (AMOSTRA)
+## COSTRUÇÃO DA APLICAÇÃO
 ![Amostra do codigo](https://github.com/Sulemam-Ba/AppPartiuPortugal/blob/main/Imagem%20codigo%20amostra.PNG)
 
 Foi usado declarações de variáveis, marcações de checkBox,  calculos, estrutura condicional basicamente.
 
-#### FERRAMENTAS DE DESENVOLVIMENTO
+## FERRAMENTA DE  DESENVOLVIMENTO 
 -Microsoft Visual Studio
 - Linguagem C#
+
+## TESTANDO APLICAÇÃO
+- Acessar "Rodar aplicação"
+- Baixar arquivo  "Partiu Portugal"
+- Execultar na maquina
+
+OBS.: DESCONSIDERAR O AVISO DE POSSIVÉL VIRUS E AUTORIZAR O WINDOWS A RODAR A APLICAÇÃO.
+
+## CONSIDERAÇÕES FINAIS 
+Crie esta aplicação  do zero, sem  copiar codigos de outras fontes. 
+Estou em busca de aprendizagem diária para esta  trabalhando com desenvolvimento de software. 
+Fico muito  grato pela sua atenção, testa a aplicação e me dê um feedbak. 
+Obigado!
 
