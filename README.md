@@ -17,7 +17,7 @@ Foi construída de forma simples, facilitando  a ultilização do usuário.
 recebendo os dados para serem processados.
 
 
-## COSTRUÇÃO DA APLICAÇÃO
+## COSTRUÇÃO DA APLICAÇÃO(AMOSTRA)
 ![Amostra do codigo](https://github.com/Sulemam-Ba/AppPartiuPortugal/blob/main/Imagem%20codigo%20amostra.PNG)
 
 Foi usado declarações de variáveis, marcações de checkBox,  calculos, estrutura condicional basicamente.
