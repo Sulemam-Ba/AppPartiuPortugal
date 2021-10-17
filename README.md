@@ -35,7 +35,7 @@ OBS.: DESCONSIDERAR O AVISO DE POSSIVÉL VIRUS E AUTORIZAR O WINDOWS A RODAR A A
 
 ## CONSIDERAÇÕES FINAIS 
 Crie esta aplicação  do zero, sem  copiar codigos de outras fontes. 
-Estou em busca de aprendizagem diária para esta  trabalhando com desenvolvimento de software. 
+Estou em busca de aprendizagem diária para trabalhar com desenvolvimento de software. 
 Fico muito  grato pela sua atenção, testa a aplicação e me dê um feedbak. 
 Obigado!
 
